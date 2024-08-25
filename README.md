@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **RTOS, Transformers, and Math!**
 
-- 📫 How to reach me **prithviseran@gmail.com**
+- 📫 Shoot me an email at **prithviseran@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
