@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prithvi Seran</h1>
 <h3 align="center">A software engineering and aspiring deep learning engineer</h3>
 
-- 🔭 I’m currently working on [AI Digital Marketing](https://github.com/PrithviSeran/AIDigitalMarketing)
-
-- 🌱 I’m currently learning **RTOS, Transformers, and Math!**
+- 🔭 I’m currently working on research with the University of Toronto!
 
 - 📫 Shoot me an email at **prithviseran@gmail.com**
 
